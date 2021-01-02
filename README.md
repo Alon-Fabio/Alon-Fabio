@@ -12,6 +12,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alon-Fabio&theme=whigth)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alon-Fabio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="mailto:Alon.the.Fabio@Gmail.com?subject=Your%20GitHub%20rules">![imag](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![imag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-fabio-3a26141a2/)
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=Alon.theFabio@Gmail.com&subject=Cool%20GitHub%20page!&body=Not%20to%20put%20words%20in%20your%20mouth%2C%20but%20you%27re+awesome!">![imag](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![imag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-fabio-3a26141a2/)
 
 ![imag](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)

@@ -12,6 +12,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alon-Fabio&theme=whigth)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alon-Fabio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=Alon.theFabio@Gmail.com&su=Cool%20GitHub%20page!&body=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1324%2F1%2AVKLX3zydG8q93o4XPrqAKQ.gif%0D%0A%0D%0ALet%27s+make+magic%21">![imag](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![imag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-fabio-3a26141a2/)
+<a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=Alon.theFabio@Gmail.com&su=Cool%20GitHub%20page!&body=Let%27s+make+magic%F0%9F%8C%9F">![imag](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [![imag](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alon-fabio-3a26141a2/)
 
 ![imag](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)

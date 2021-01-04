@@ -12,6 +12,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alon-Fabio&theme=whigth)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alon-Fabio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![imag](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=Alon.theFabio@Gmail.com&su=Cool%20GitHub%20page!&body=Let%27s+make+magic%F0%9F%8C%9F){:target="\_blank"}
+[![imag](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&to=Alon.theFabio@Gmail.com&su=Cool%20GitHub%20page!&body=Let%27s+make+magic%F0%9F%8C%9F){:target="_blank"}
 
 ![imag](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
